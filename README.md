@@ -1,2 +1,2 @@
-# fullstacks
-full stacks stite
+# Tarea 2
+Modulo 1 - Tarea2
